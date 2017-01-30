@@ -4,4 +4,4 @@ How to run the tests:
 ./node_modules/.bin/webdriver-manager start
 
 2. Open a new terminal and run Protractor:
-./node_modules/.bin/protractor protractor.conf.js
+./node_modules/.bin/protractor protractor.conf.js --disableChecks
